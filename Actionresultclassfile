@@ -1,2 +1,5 @@
 ViewResult
 PartialViewResult
+RedirectResult
+ContentResult
+JsonResult
